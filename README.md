@@ -64,6 +64,6 @@ I wanted to practice my Frontend that I learned last year from freecodecamp and 
 
 ## Author
 
-- Website - [Masroor Khan]([https://www.your-site.com](https://educreative.github.io/)
+- Website - [Masroor Khan](https://educreative.github.io/)
 - Frontend Mentor - [@EduCreative](https://www.frontendmentor.io/profile/EduCreative)
 - Twitter - [@CreativeWork7](https://www.twitter.com/CreativeWork7)
