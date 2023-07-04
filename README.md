@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building real projects. 
 
 ## Table of contents
 
@@ -47,19 +47,19 @@ Users should be able to:
 
 ### What I learned
 
-- I learned that I need to learn more by making more similar projects because responsive designs with formatting taking a lot of time.
+- I learned that I need to learn more by making more similar projects because responsive designs with formatting take a lot of time.
 Especially REM, EM, %, etc.
-- I also learned some of the github commands I was not aware of.
-- Most important, I learned what should be in a read me file, how to make it (and this is my first readme file)
+- I also learned some of the GitHub commands I was not aware of.
+- Most important, I learned what should be in a read-me file, and how to make it (and this is my first readme file)
 
 ### Continued development
 
-I wanted to practice my Frontend that I learned last year from freecodecamp and this first challenge made me realize I need to practice more and revise more responsive web design concepts. so I  am going to give some related challanges a shot.
+I wanted to practice my Frontend that I learned last year from freecodecamp and this first challenge made me realize I need to practice more and revise more responsive web design concepts. so I  am going to give some related challenges a shot.
 
 ### Useful resources
 
 - [W3School](https://www.w3school.com) - This helped me for every thing as I use W3School as a reference tool.
-- [FontAwesome](https://www.fontawsome.com) - I used fontawseome for icons.
+- [FontAwesome](https://www.fontawsome.com) - I used font awesome for icons.
 - [FreeCodeCamp](https://www.freecodecamp.com) - This is an amazing website, I learned Responsive Web design.
 
 ## Author
