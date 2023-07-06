@@ -25,14 +25,10 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
-![](./screenshot.jpg)
-
 ![Screenshot (67)](https://github.com/EduCreative/FrontendMentor-result-summary/assets/108581855/65668f3e-5df2-4616-92b9-7c6c8aa22ab5)
 ![Screenshot (66)](https://github.com/EduCreative/FrontendMentor-result-summary/assets/108581855/7a820dab-0719-4cc3-b5a0-73c0d8bdcdf6)
 
 ### Links
-
 - Solution URL: (https://github.com/EduCreative/FrontendMentor-result-summary.git)
 - Live Site URL: (https://educreative.github.io/FrontendMentor-result-summary/)
 
