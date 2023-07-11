@@ -28,7 +28,7 @@ main {
   justify-content: center;
   align-items: center;
   padding: 10px;  
-/* width: 85%; */
+  width: 85%;
   height: 50vh;
   background-color: hsl(241, 81%, 54%);
   border-radius: 0px 0px 30px 30px;  
