@@ -44,21 +44,23 @@ main {
   box-shadow: 1px 1px 20px rgb(80, 67, 224);
 }
 
-h1 {
+}
+h1 {  
+  color: rgb(211, 210, 210);
+  padding:10px;
+}
+
+h2 {
     color: white;
     font-size: 50px;
     margin: 5px;
 }
 
-h2 {
+h3 {
     font-size: 20px;
     color: white;
     margin: 10px;
-}
-h3 {  
-  color: rgb(211, 210, 210);
-  padding:10px;
-}
+  
 .summaryBox {
   padding: 10px;
   display: flex;
