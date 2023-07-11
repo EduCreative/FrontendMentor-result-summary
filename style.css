@@ -162,6 +162,7 @@ body {
   .blueBox,
   .summaryBox {
     height: 60vh;
+    width: auto;
 /*     width: 50vw; */
   }
   .summaryBox {
