@@ -155,7 +155,7 @@ body {
   main {
     display: flex;
     flex-direction: row;
-    margin: 28% 0px;
+    margin: 28%;
 /*     height: 50%; */
 /*     width: 40%; */
   }
