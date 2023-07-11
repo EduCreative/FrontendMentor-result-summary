@@ -13,11 +13,11 @@ body {
   background-color: hsl(0, 0%, 100%);
 }
 
-.container {
+main {
   display: flex;
   flex-direction: column;
-  height: 100%;
-  width: 100%;
+  min-height: 100vh;
+  /*   width: 100%; */
   align-items: center;
   justify-content: center;
 }
@@ -134,12 +134,12 @@ input:hover {
 body {
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    min-height: 100vh;
     align-items: center;
     justify-content: center;
   }
 
-  .container {
+  main {
     display: flex;
     flex-direction: row;
     height: 50%;
