@@ -161,9 +161,8 @@ body {
   }
   .blueBox,
   .summaryBox {
-/*     height: 50vh; */
-
-/*     width: 50vw; */
+    height: 70vh;
+    width: 30vw;
   }
   .summaryBox {
     box-shadow: 20px 10px 50px rgb(215, 215, 215);
