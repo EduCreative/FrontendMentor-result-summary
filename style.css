@@ -60,6 +60,7 @@ h3 {
     font-size: 20px;
     color: white;
     margin: 10px;
+}
   
 .summaryBox {
   padding: 10px;
@@ -129,6 +130,16 @@ input:hover {
     background-color: hsl(224, 30%, 27%);
 }
 
+.attribution {
+     font-size: 11px;
+     text-align: center;
+     margin: 3rem;
+  }
+  
+  .attribution a {
+     color: hsl(228, 45%, 44%);
+  }
+
 @media only screen and (min-width: 840px) {
   *{
     font-size: 18px;
@@ -175,13 +186,7 @@ body {
   }
   
   .attribution {
-     font-size: 11px;
-     text-align: center;
-     margin: -5rem 5rem;
-  }
-  
-  .attribution a {
-     color: hsl(228, 45%, 44%);
+     margin: -10rem 5rem;
   }
 
 }
